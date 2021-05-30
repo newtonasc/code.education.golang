@@ -1,6 +1,17 @@
-# Golang challenge
+# Code Education
 
-## Code Education
+## Golang challenge
+
+
+* Get docker hub image
+
+````
+docker pull newtonasc/codeeducation
+````
+
+
+OR
+
 
 * Build docker image
 
@@ -8,11 +19,8 @@
 Run docker build -t newtonasc/codeeducation:latest .
 ````
 
-OR
-
-* Get docker hub image
+* To run 
 
 ````
-docker push newtonasc/hello-express:latest
+docker run --rm newtonasc/codeeducation
 ````
-
