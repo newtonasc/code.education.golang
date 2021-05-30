@@ -3,6 +3,12 @@
 ## Golang challenge
 
 
+* Clone repository
+
+````
+https://github.com/newtonasc/code.education.golang.git
+````
+
 * Get docker hub image
 
 ````
