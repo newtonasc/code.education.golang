@@ -6,7 +6,7 @@
 * Clone repository
 
 ````
-https://github.com/newtonasc/code.education.golang.git
+git clone https://github.com/newtonasc/code.education.golang.git
 ````
 
 * Get docker hub image
